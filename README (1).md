@@ -182,14 +182,3 @@ Potential extensions of this project:
 - Exploring transformer-heavy architectures beyond YOLO12  
 
 ---
-
-## 📘 Full Report
-
-The full written report (PDF) includes:
-
-- Detailed methodology  
-- Model training details  
-- Additional metrics and plots  
-- Extended discussion and references  
-
-You can add the report as `report.pdf` in this repository.
